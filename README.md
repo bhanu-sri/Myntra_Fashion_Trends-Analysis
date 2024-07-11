@@ -1,5 +1,4 @@
-# Myntra_Fashion_Trends-Analysis
-# Fashion Trends Analysis - Hackathon Project
+# Myntra_Fashion_Trends-Analysis - <HackerRamp/>
 
 ## Overview
 
