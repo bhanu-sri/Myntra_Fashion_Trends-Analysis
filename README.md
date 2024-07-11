@@ -31,7 +31,7 @@ This project aims to analyze fashion trends and customer preferences using histo
 
 ## Exploratory Data Analysis (EDA)
 
-### Myntra Fashion Products Dataset  ### Womens Clothing E-Commerce Reviews Dataset Overall Analysis
+### Myntra Fashion Products Dataset and Womens Clothing E-Commerce Reviews Dataset :: Overall Analysis
 
 ![Myntra EDA 1]![2](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/3071afb8-e79c-4fcf-ad37-23a18e0e1dc8)
 ![Myntra EDA 2]![1](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/7248193a-bb2e-4321-84d8-b30aaa0a2761)
@@ -65,18 +65,18 @@ We conducted a detailed analysis of trends and customer preferences using histor
 
 From the Myntra dataset, we identified that categories like 'Dresses' and 'Tops' have the highest popularity among customers.
 
-![Popular Categories](path/to/popular_categories.png)
-
 ### Customer Sentiment Analysis
 
 From the Clothing E-Commerce Reviews dataset, we observed that products with higher positive feedback tend to have better ratings.
 
-![Sentiment Analysis](path/to/sentiment_analysis.png)
 
-## Contact Us
+## Web Application
+Home Page:
+![image](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/30a5ecee-6384-44f4-b9b6-d8ce5a9979cc)
+About Page:
+![image](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/53d1b5d1-d78c-4d62-9450-9563ea79ab44)
+Current and Past Data Visualization:
+![image](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/a83a6aa9-14da-4303-9ec6-83ea7ff1ef98)
 
-Have questions? Need assistance? Just want to say hi? Drop us a line because we're all ears! Let's hack the world together!
-
----
 
 *Note: All visualizations and analyses were done using Python and various libraries such as Pandas, Matplotlib, and Seaborn. The Flask framework was used for creating the web application.*
