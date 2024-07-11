@@ -1,4 +1,4 @@
-# Myntra_Fashion_Trends-Analysis_<HackerRamp/>
+# Myntra_Fashion_Trends-Analysis_HackerRamp
 
 ## Overview
 
