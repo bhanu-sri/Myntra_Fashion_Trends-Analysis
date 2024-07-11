@@ -1,0 +1,145 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two images per row */
+    gap: 30px; /* Increased gap between images */
+    justify-content: center; /* Center align the grid */
+}
+
+.gallery .image-wrapper {
+    width: 100%;
+    text-align: center; /* Center align the image */
+    margin-bottom: 20px; /* Space after each image */
+}
+
+.gallery img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    display: block; /* Ensure images do not create space issues */
+    margin: 0 auto; /* Center align the image horizontally */
+}
+
+section#visualization {
+    text-align: center; /* Center align the section content */
+    padding: 50px 0; /* Padding top and bottom for space */
+}
+body {
+    background-image: url('../static/images/11.png'); /* Replace with your image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Ensures the background image stays fixed as the user scrolls */
+    font-family: Arial, sans-serif; /* Example font-family */
+   
+    /* Add any other styling you need */
+}
+/* styles.css */
+.about-content {
+    max-width: 800px;
+    padding: 20px;
+    color:rgb(251, 249, 251);
+}
+
+.about-content h2 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    
+}
+
+.about-content p {
+    font-size: 2.2rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+    font-weight: bolder;
+}
+
+.about-content ul {
+    text-align: left;
+    margin-left: 40px;
+}
+
+.about-content li {
+    font-size: 2.2rem;
+    margin-bottom: 10px;
+    font-weight: bolder;
+}
+
+/* Animation example */
+.about-content p {
+    animation: fadeIn 1s ease-in-out; /* Example animation */
+}
+.about-content li {
+    animation: fadeIn 1s ease-in-out; /* Example animation */
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+/* styles.css */
+
+#home {
+    text-align: center; /* Center align the content */
+    padding-top: 50px; /* Add some padding at the top */
+}
+
+#home h1 {
+    font-size: 3.5rem; /* Increase font size */
+    color: #fda219; /* Change text color to a different color */
+    margin-bottom: 30px; /* Add margin at the bottom for spacing */
+}
+#home h3 {
+    font-size: 2.5rem; /* Increase font size */
+    color: #ed2689; /* Change text color to a different color */
+    margin-bottom: 30px; /* Add margin at the bottom for spacing */
+}
+
+#visualization h1 {
+    font-size: 2.5rem; /* Increase font size */
+    color: #ed2689; /* Change text color to a different color */
+    margin-bottom: 30px; /* Add margin at the bottom for spacing */
+}

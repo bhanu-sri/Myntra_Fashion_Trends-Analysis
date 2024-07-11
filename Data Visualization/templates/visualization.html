@@ -1,0 +1,14 @@
+{% extends 'index.html' %}
+
+{% block content %}
+<section id="visualization">
+    <h1>Data Visualization</h1>
+    <div class="gallery">
+        {% for image in images %}
+        <div class="image-wrapper">
+            <img src="{{ url_for('static', filename='images/' + image) }}" alt="Image">
+        </div>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}
