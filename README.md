@@ -31,15 +31,15 @@ This project aims to analyze fashion trends and customer preferences using histo
 
 ## Exploratory Data Analysis (EDA)
 
-### Myntra Fashion Products Dataset
+### Myntra Fashion Products Dataset  ### Womens Clothing E-Commerce Reviews Dataset Overall Analysis
 
-![Myntra EDA 1](path/to/myntra_eda_1.png)
-![Myntra EDA 2](path/to/myntra_eda_2.png)
-
-### Womens Clothing E-Commerce Reviews Dataset
-
-![Clothing EDA 1](path/to/clothing_eda_1.png)
-![Clothing EDA 2](path/to/clothing_eda_2.png)
+![Myntra EDA 1]![2](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/3071afb8-e79c-4fcf-ad37-23a18e0e1dc8)
+![Myntra EDA 2]![1](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/7248193a-bb2e-4321-84d8-b30aaa0a2761)
+![3](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/111cefdd-8d17-4190-8c83-7c5d7c6a2ba7)
+![4](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/2baafb39-0c53-4e65-a62c-e7a720ec3b57)
+![6](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/7ff872c6-ab36-4d95-8700-16888ad6e49f)
+![5](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/b0ab2d15-a339-4e3f-9704-f362d1635b58)
+![7](https://github.com/bhanu-sri/Myntra_Fashion_Trends-Analysis/assets/118191356/e00d9b83-932a-4a33-829c-81cc19c952a1)
 
 ## Solution and Benefits
 
